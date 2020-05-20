@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Exam_Android_Dev</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="next">Register</string>
+    <string name="error_empty_value">Not Empty</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="pw_not_match">Password not match</string>
+    <string name="email_not_match">Email not match</string>
+    <string name="simple_name">Name here</string>
+    <string name="list_repo_user">List Repository User</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail_user">Detail User</string>
+    <string name="company">Company:</string>
+    <string name="location">Location:</string>
+    <string name="blog">Blog:</string>
+    <string name="follower_from_url">Follower from URL :</string>
+    <string name="follower_from_followers_url">Follower from Followers URL :</string>
+
+</resources>
